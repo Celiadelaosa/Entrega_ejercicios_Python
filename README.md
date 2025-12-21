@@ -19,14 +19,12 @@ Este repositorio contiene los enunciados y ejercicios resueltos en Python como p
 
 ## Cómo ejecutar los ejercicios
 
-Para ejecutar los ejercicios, solo es necesario tener **Python 3.x** instalado en el sistema. Se puede ejecutar el archivo `ejercicios_resueltos.py` directamente desde la terminal:
+Para ejecutar los ejercicios, solo es necesario tener **Python 3.x** instalado en el sistema.
 
 ## Requisitos
--Python 3.x
+Python 3.x
 
 ## Autor
 👤 Celia de la Osa Fernández
 
-```bash
-python ejercicios_resueltos.py
 
